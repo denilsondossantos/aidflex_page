@@ -968,7 +968,7 @@ section {
 .backImg {
   width: 100%;
   padding: 80px 0;
-  background: url("/assets/img/mulher-jovem-mostrando-smartphone-em-mao.jpg") no-repeat;
+  background: url("/assets/img/mulher-jovem-mostrando-smartphone-em-mao.webp") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -994,7 +994,7 @@ section {
 .testimonials {
   width: 100%;
   padding: 80px 0;
-  background: url("/assets/img/mulher-jovem-mostrando-smartphone-em-mao.jpg") no-repeat;
+  background: url("/assets/img/mulher-jovem-mostrando-smartphone-em-mao.webp") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1672,7 +1672,7 @@ section {
 #backgroudSlider {
   width: 100%;
   height: calc(100vh - 110px);
-  background: url("/assets/img/mulher-jovem-mostrando-smartphone-em-mao.jpg") top center;
+  background: url("/assets/img/mulher-jovem-mostrando-smartphone-em-mao.webp") top center;
   background-size: cover;
   position: relative;
 }
